@@ -1,0 +1,16 @@
+{
+  "name": "express-html",
+  "version": "1.0.0",
+  "description": "test server for html pages",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "nihal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "touch": "^3.1.0"
+	
+  }
+}
